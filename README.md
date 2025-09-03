@@ -40,7 +40,7 @@ Vous avez maintenant une copie du projet en local.
 ---
 
 ## Étape 4 – Travailler avec une branche
-1. Créez et basculez sur une nouvelle branche `update-hello` :
+1. Créez et basculez sur une nouvelle branche `update-hello-file` :
 
    ```bash
    git checkout -b update-hello-file
@@ -66,7 +66,7 @@ Vous avez maintenant une copie du projet en local.
 2. Fusionnez la branche :
 
    ```bash
-   git merge update-hello
+   git merge update-hello-file
    git push
    ```
 
