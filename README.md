@@ -1,9 +1,13 @@
 # TP Git & GitHub
 
+[Adresse du repository
+](https://github.com/Nefferou/Capsule-Git)
+
 ## Étape 1 – Créer un projet GitHub et le cloner
-1. Connectez-vous à [GitHub](https://github.com) et créez un **nouveau dépôt** (vide, sans README).  
-2. Copiez l’URL de votre projet (bouton vert **Code** → HTTPS).  
-3. Sur votre PC, ouvrez un terminal et tapez :
+1. Installer [Git](https://git-scm.com/downloads) sur votre poste
+2. Connectez-vous à [GitHub](https://github.com) et créez un **nouveau dépôt** (vide, sans README).  
+3. Copiez l’URL de votre projet (bouton vert **Code** → HTTPS).  
+4. Sur votre PC, ouvrez un terminal et tapez :
 
    ```bash
    git clone https://github.com/<utilisateur>/<projet>.git
